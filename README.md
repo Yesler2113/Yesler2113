@@ -3,21 +3,6 @@
 </p>
 <h1 align="center">Hola 👋  soy Yesler Antonio Muñoz✨ </h1>
 <h3 align="center">🚀 Apasionado por la tecnología y la creatividad</h3>
-<h2>📬 Contáctame</h2>
-
-<p>
-  <a href="https://www.instagram.com/yesler_d.21" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="mailto:diazmunozdm12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://wa.me/50495091295" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
 ## 🙋‍♂️ Sobre mí
 <br/>
 - 🎓 Estudiante de **Ingeniería en Sistemas** (más del 75% aprobado).
@@ -64,7 +49,21 @@ Siempre buscando mejorar mis habilidades en:
 
 ## ✨ Frase que me inspira
 > "El código es como la poesía: cuando se escribe bien, transmite emociones y creatividad."
+<h2>📬 Contáctame</h2>
 
+<p>
+  <a href="https://www.instagram.com/yesler_d.21" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="mailto:diazmunozdm12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://wa.me/50495091295" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
