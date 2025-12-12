@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Apasionado por la tecnología y la creatividad</h3>
 ## 🙋‍♂️ Sobre mí
 <br/>
-- 🎓 Estudiante de **Ingeniería en Sistemas** (más del 75% aprobado).
+- 🎓 Estudiante de **Ingeniería en Sistemas** (más del 90% aprobado).
 <br/>
 - 💡 Creo que la programación nos permite **dar vida a nuestras ideas**. 
 <br/>
@@ -35,7 +35,8 @@
 </p>
 
 ## 📂 Proyectos Destacados
-- 📱 **[AQUASYSTEM](#)** - Desarrollo de WebApp y aplicacion Movil, para la empresa Municipal Aguas de Santa Rosa, con el objetivo de mejorar la interaccion entre la empresa y sus abonados. (Proxima a lanzarse, esta en fase de pruebas.  
+- 📱 **[AQUASYSTEM](#)** - Desarrollo de WebApp y aplicacion Movil, para la empresa Municipal Aguas de Santa Rosa, con el objetivo de mejorar la interaccion entre la empresa y sus abonados. (Proxima a lanzarse, esta en fase de pruebas).
+- 📱 **[ISP MANAGER](#)** - Desarrollo de App Movil para un proveedor de servicios de internet, el cual le permite getionar de manera eficiente la cartera de clientes, asi como el inventarion de sus equipos y llevar un control de pagos de sus clientes, con la capacidad de poder generar recibos de pago desde la app.
 
 
 ## 📖 En constante aprendizaje
